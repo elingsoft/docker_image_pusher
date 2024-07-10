@@ -10,3 +10,6 @@ zoffline/zoffline
 mongo
 mongo-express
 mongodb/mongodb-community-server
+postgres
+mysql
+mariadb
